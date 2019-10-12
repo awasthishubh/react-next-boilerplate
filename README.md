@@ -8,6 +8,10 @@
 <br />
 
 <div align="center">
+  <!-- License -->
+  <a href="https://lbesson.mit-license.org/">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT license">
+  </a>
   <!-- Build Status -->
   <a href="https://travis-ci.org/react-next-boilerplate/react-next-boilerplate">
     <img src="https://img.shields.io/travis/react-next-boilerplate/react-next-boilerplate?style=flat-square" alt="Build Status" />
